@@ -1,0 +1,7 @@
+Origin: ImEvill
+Label: ImEvill
+Suite: stable 
+Version: 1.5
+Architectures : iPhone-arm
+Components: main
+Description: Tweak
